@@ -1,0 +1,171 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of the vvel-affected in the county of Buckinghamshire. Being a representation of the middle sort of men within the three chilterne hundreds of Disbrough, Burnum, and Stoke, and part of Alisbury hundred, whereby they declare their resolution and intentions, with a removall of their grievances.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82242</idno>
+            <idno type="STC">Wing D776</idno>
+            <idno type="STC">Thomason E555_1</idno>
+            <idno type="STC">ESTC R205704</idno>
+            <idno type="EEBO-CITATION">99865005</idno>
+            <idno type="PROQUEST">99865005</idno>
+            <idno type="VID">165094</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82242)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165094)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 86:E555[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of the vvel-affected in the county of Buckinghamshire. Being a representation of the middle sort of men within the three chilterne hundreds of Disbrough, Burnum, and Stoke, and part of Alisbury hundred, whereby they declare their resolution and intentions, with a removall of their grievances.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the year. 1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "May 10th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Buckinghamshire (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165094:1" rendition="simple:additions"/>
+            <p>A DECLARATION OF THE VVEL-AFFECTED In the County of <hi>Buckinghamſhire.</hi>
+            </p>
+            <p>BEING A Repreſentation of the middle ſort of Men within the three Chilterne Hundreds of <hi>Disbrough, Burnum,</hi> and <hi>Stoke,</hi> and part of <hi>Alisbu<g ref="char:EOLhyphen"/>ry</hi> Hundred, whereby they Declare their Reſo<g ref="char:EOLhyphen"/>lution and Intentions, with a Removall of their <hi>Grieva<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>s.</hi>
+            </p>
+            <figure>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>
+               <add>May 10<hi rend="sup">th</hi>
+               </add> Printed in the Year. 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:165094:2"/>
+            <pb n="3" facs="tcp:165094:2"/>
+            <head>A DECLARATION <hi>OF THE</hi> VVell-affected in the County of BUCKINGHAMSHIRE.</head>
+            <p>
+               <seg rend="decorInit">W</seg>E have for this eight years waited with much patience, and great expence of Trea<g ref="char:EOLhyphen"/>ſure, beſides the loſs of many our dear friends, in the purſuance of our juſt Rights, and Freedoms, which God had inve<g ref="char:EOLhyphen"/>ſted us withall, and the whole Nation, and kept from us by the Arbitrary Powers, &amp; tyrannicall Facti<g ref="char:EOLhyphen"/>ons of the Nobility, Courtiers, Epiſcopal Prieſts, and wicked cheating Lawyers, beſides Impropriators, Patentee-men, Lords of Mannors, and all illegall Courts, &amp;c. and other diabolicall Intereſt parties, that had all their Licences, Pa<g ref="char:EOLhyphen"/>tents, Grants, Commiſſions, from the late King, whoſe firſt Predeceſſor was that out-landiſh Baſtard, <hi>William</hi> the <hi>Nor<g ref="char:EOLhyphen"/>man</hi> Conqueror; from whence doth proceed the originall of all our ſlavery, both in Tenures, Termes, tyrannicall Laws, Cuſtoms, &amp;c. whereby we, the lower ſort of People, are made ſlaves to the wills of <hi>Tyrants,</hi> by reaſon the Law, being in an outlandiſh <hi>Tongue,</hi> and withall bought and ſold by the Lawyers, who judge the Cauſes according to the Purſe, and will do no Juſtice without money; ſo for filthy
+<pb n="4" facs="tcp:165094:3"/>lucre, will ſtand to juſtifie and maintain any unjuſt, and wicked, and tyrannicall Cuſtome, or illegall perſecutions of any Tyrants whatſoever, although to the utter depriva<g ref="char:EOLhyphen"/>tion and undoing of the poor widdows, fatherleſs, &amp;c. and to the advancing the <hi>Wills</hi> of mercileſs <hi>Tyrants;</hi> and which ſaid parties, eſpecially the Lawyers, was the chief inſtruments of procuring all that miſerable effuſion of bloodſhed, and ruine in this Nation, by the Judges giving their Verdict for ſhip-moneys, and other Monopolies over all ſorts and trades, and which doth ſtill ſtrive to hinder all good, and godly, honeſt and juſt Reformation, they ſtriving rather to uphold their own theft and deceit, then admitting any juſt compoſure and agrement of the People, leſt all trials ſhould be by twelve men of the neighbourhood in every Hundred; without expence and charge, which would be the ruine of their needleſs Calling, and a full eaſe to the People, who are now vexed and undone by their Removes, Demurs, and needleſs journeys to their <hi>Termes,</hi> whereby they live upon the only Diſſentions, and Differences of the People, and by whoſe Subtilties, Counſels, and Deluſions, the whole Na<g ref="char:EOLhyphen"/>tion hath been inſlaved ever ſince the foreſaid Conqueſt, by whoſe ſtrategems all the middle ſort, and poor People hath been purſued by mercileſs Priviledges, great men, as Lords, Gentlemen, and extorting Lords of Mannors, where<g ref="char:EOLhyphen"/>by all wicked Cuſtoms, as Fines; Hariots, Quit-rents, and Headſilvers, with all ſlaviſh and baſe Tenours, Tyths, Im<g ref="char:EOLhyphen"/>propriations, and Patents, Prerogative Charters; the ſaid Lawyers being alwayes Judges and Stewards of thoſe Ar<g ref="char:EOLhyphen"/>bitrary Courts, and are choſen by thoſe Prerogative Bo<g ref="char:EOLhyphen"/>rough towns to be Burgeſſes of Parliament, which have been the great obſtructors and hinderers of all our Liber<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ies, Freedoms, and naturall Rights.</p>
+            <p>But when we received ſo many Promiſes, Declarations, and Remonſtrances from the Parliament, that ſo ſoon as God ſhould make them capable, and overthrow their ene<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ies that were in arms againſt them, they would make us
+<pb n="5" facs="tcp:165094:3"/>the abſolute freeſt People in the world, removing all Op<g ref="char:EOLhyphen"/>preſſions; all which did engage us to aſſiſt them: and find<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng them to apoſtatize from their principles in their <hi>Trea<g ref="char:EOLhyphen"/>ties,</hi> the Army promiſing to ſtand by us that we might have our Freedoms; but finding both the Parliament and Army to break their promiſes and to be as Arbitrary as thoſe that were before them, in maintaining all the foreſaid oppreſſi<g ref="char:EOLhyphen"/>ons upon us, with new vexations, as <hi>Exciſe, Taxes, Free-quarter, &amp;c.</hi> ſuffering their Committees to domineer over us, the ſame <hi>Terms, Lawyers, Courts,</hi> remain as corrupt as formerly, <hi>Tithes,</hi> ſlaviſh <hi>Tenures, Tolls, Patents, &amp;c.</hi> ſtill in force, our friends moſt unjuſtly, and <hi>Starchamber-like</hi> im<g ref="char:EOLhyphen"/>priſoned by a new Committee, called the <hi>Councel of State,</hi> which was never deſired to be ſet up or allowed to tyran<g ref="char:EOLhyphen"/>nize over the People, yet no leſs then four of our worthy friends, as Mr. <hi>Lilburn,</hi> Mr. <hi>Walwin,</hi> Mr. <hi>Prince,</hi> Mr. <hi>Over<g ref="char:EOLhyphen"/>ton,</hi> muſt be by them ſent to the <hi>Tower</hi> at their pleaſure, for not anſwering Interogatories; the Parliament approve of it, ſome of our friends caſt into other priſons, as Captain <hi>Bray,</hi> and an honeſt faithful ſouldier murthered, and ſhot to death by the audatious and perfidious proud <hi>Officers</hi> of the Army, who in a Councel of War condemus him, the General refuſing to pardon or repleeve him, the <hi>Janiſary</hi> ſouldiers murther him, ſo that even the old conqueſt of <hi>William</hi> the <hi>Norman</hi> is now revived again; the forenamed <hi>Lawyers,</hi> with the <hi>Impropriators, Lords</hi> of <hi>Mannors, Pa<g ref="char:EOLhyphen"/>tentee men,</hi> and chiefe <hi>Officers</hi> of the <hi>Army,</hi> with the <hi>Judges,</hi> wicked <hi>Peers, &amp;c.</hi> being compacted all in one, and minding utterly to betray, inſlave, and undo us, more then thoſe former <hi>Tyrants</hi> before them, doth ſtill keep up the <hi>Kingly</hi> power, altering the title, and all that Dia<g ref="char:EOLhyphen"/>bolicall Intereſt that doth belong unto it, <hi>&amp;c.</hi> ſo that <hi>Quitrents, Fines,</hi> and <hi>Hariots, Tolls</hi> and <hi>Cuſtoms</hi> are ſtill forced upon us, and the <hi>Impropriators</hi> ſuing us for <hi>Tythes;</hi> no right Juſtice to be had for the meaner and poor people, many undone, ready to famiſh and ſtarve, yet no effec<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uall
+<pb n="6" facs="tcp:165094:4"/>courſe taken for them, as their need requires, all our honeſt <hi>Petitions</hi> ſlighted, and diſregarded.</p>
+            <p>All which tyranny, oppreſſion, and arbitrary proceedings of theirs, makes us doubt of any true Reformation, or juſt Freedom and Liberty to come from them, ſo long as thoſe wicked Lawyers and impropriators, &amp;c. are amongſt them, and untill all thoſe Lawyers and Impropriators be purged out from amongſt them it will be to little purpoſe to make any more addreſſes to them.</p>
+            <p>Likewiſe finding the Grandees of the Army to be the men that hinder both the honeſt ſoldiery, that ſtands for abſolute Freedom, and doth impriſon, and put them to death, that are for juſt principles of common Right and Equity, ſo that thoſe honeſt men are by thoſe proud Commanders perſecu<g ref="char:EOLhyphen"/>ted by the name of Levellers.</p>
+            <p>By all which, we ſee thoſe chief Commanders are grown to an extream height of avarice, pride, hypocriſie and apo<g ref="char:EOLhyphen"/>ſtacy, meer arbitrary Politicians prefering their filthy lucres, and diabolical intereſts, gain and ugly honor, more then the common Freedom of us and the ſoldiery, for a great part of them to be ſo barbarous, as to ſubject themſelves to thoſe Commanders wils, although it be to murther their fellows that are godly, honeſt, and conſciencious, &amp;c.</p>
+            <p>All which, both by Parliament, and Grandees of the Army, there can be but little good expected from them, and boot<g ref="char:EOLhyphen"/>leſſe for us any longer to wait for their delivering us, not<g ref="char:EOLhyphen"/>withſtanding their flattering deluſions, and hypocritical Faſts, making us believe they would take off our oppreſſi<g ref="char:EOLhyphen"/>ons, when they lay more on us, not at all removing the Ro<g ref="char:EOLhyphen"/>man power, but allowing Law to be bought and ſold ſtill, and yet will not ſuffer our impriſoned friends to have it for their money, but to lye in priſon during pleaſure, &amp;c. in<g ref="char:EOLhyphen"/>venting new wayes to try them; others tryed, ſentenced, condemned, kild, &amp;c. even by a Court Martial, contrary to the diabolical <hi>Norman</hi> Laws themſelves.</p>
+            <pb n="7" facs="tcp:165094:4"/>
+            <p> ANd therefore we declare our intenti<g ref="char:EOLhyphen"/>ons, that the World may take notice of our Principles, which are for com<g ref="char:EOLhyphen"/>mon right and freedom. And therefore,<list>
+                  <item>1. We do proteſt againſt all Arbitrary Courts, Terms, Lawyers, Impropriators, Lords of Mannors, Patents, Priviledges, Cuſtoms, Tolls, Monopolizers, Incroach<g ref="char:EOLhyphen"/>ers, Inhancers, &amp;c. or any other intereſt-parties, whoſe power are Arbitrary, &amp;c. as not to allow, or ſuffer our ſelves to be in<g ref="char:EOLhyphen"/>ſlaved by any of thoſe parties, but ſhall re<g ref="char:EOLhyphen"/>ſiſt, as far as lawfully we may, all their Ar<g ref="char:EOLhyphen"/>bitrary proceedings.</item>
+                  <item>2. We proteſt againſt the whole Norman power, as being too intollerable a bur<g ref="char:EOLhyphen"/>den any longer to bear.</item>
+                  <item>3. We proteſt againſt paying Tythes, Tolls, Cuſtom, &amp;c.</item>
+                  <item>4. We proteſt againſt coming to Weſt<g ref="char:EOLhyphen"/>minſter Terms, or to give any mony to the Lawyers, but will endeavor to have all our controverſies ended by 2, 3, or 12 men of our own neighborhood, as before the <hi>Norman</hi> Conqueſt.</item>
+                  <pb n="8" facs="tcp:165094:5"/>
+                  <item> 5. We proteſt againſt any trial by a Martial Court, as Arbitrary, Tyrannical, and Wic<g ref="char:EOLhyphen"/>ked; and not for a free people to ſuffer in time of Peace.</item>
+                  <item>6. We ſhall help to aid and aſsiſt the poor, to the regaining all their Rights, dues, &amp;c. that do belong unto them, and are detained from them by any tyrant whatſoever.</item>
+                  <item>7. And likewiſe will further and help the ſaid poor to manure, dig, &amp;c. the ſaid Com<g ref="char:EOLhyphen"/>mons, and to fell thoſe woods growing thereon to help them to a ſtock, &amp;c.</item>
+                  <item>8. All wel-affected perſons that joyn in community in Gods way, as thoſe <hi>Acts</hi> 2. and deſire to manure, dig, and plant in the waſte grounds and Commons, ſhall not be troubled or moleſted by any of us, but rather furthered therein.</item>
+                  <item>9. Wee deſire to go by the golden rule of equity, viz. <hi>To do to all men as we would they ſhould do to us,</hi> and no otherwiſe; And as we would tyrannize over none, ſo we ſhall not ſuffer our ſelves to be ſlaves to any whoſoever.</item>
+               </list>
+            </p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
